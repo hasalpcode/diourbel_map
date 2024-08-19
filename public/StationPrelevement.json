@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+
+    {"type":"Feature","properties":{"id":"1","name":"Station de pompage","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2382959999999,14.637684]}},
+
+    {"type":"Feature","properties":{"id":"2","name":"Station de pompage","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227834,14.6712390000001]}}
+
+ ]}

@@ -1,0 +1,11 @@
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"id":"1","name":"CENTRE D'ÉCOUTE ET DE PROTECTION DES ENFANTS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2166149999999,14.658167]}},
+
+    {"type":"Feature","properties":{"id":"2","name":"MAISON DE LA FEMME ENTREPRENEURE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2242499999999,14.676116]}}
+
+
+
+
+
+
+ ]}

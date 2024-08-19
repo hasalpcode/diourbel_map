@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"id":"1","name":"Quartier CHEIKH IBRA","country":"Sénégal"},"geometry":{"type":"Point","coordinates": [-16.2508289,14.6591281]}}
+
+ ]}

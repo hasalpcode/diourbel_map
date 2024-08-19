@@ -1,0 +1,20 @@
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"id":"1","name":"STATION ELTON","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227954,14.682353]}},
+
+    {"type":"Feature","properties":{"id":"2","name":"STATION SHELL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239249,14.665039]}},
+
+    {"type":"Feature","properties":{"id":"3","name":"Station service","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239607,14.635863]}},
+
+    {"type":"Feature","properties":{"id":"4","name":"Station service Star","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.250667,14.6589680000001]}},
+
+    {"type":"Feature","properties":{"id":"5","name":"Station service Star","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.255368,14.651619]}},
+
+    {"type":"Feature","properties":{"id":"6","name":"EDK OIL DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2443719999999,14.6516740000001]}},
+
+    {"type":"Feature","properties":{"id":"7","name":"STATION SHELL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.235676,14.6555510000001]}},
+
+    {"type":"Feature","properties":{"id":"8","name":"Station total","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.235084,14.655221]}},
+
+    {"type":"Feature","properties":{"id":"9","name":"Station service","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.233941,14.656098]}}
+    
+ ]}

@@ -1,0 +1,10 @@
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"id":"1","name":"UNIVERSITÉ VIRTUELLE DU SÉNÉGAL (ENO DE DIOURBEL)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2223579999999,14.6517710000001]}},
+
+    {"type":"Feature","properties":{"id":"2","name":"Université","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.257647,14.649797]}},
+
+    {"type":"Feature","properties":{"id":"3","name":"UNIVERSITÉ VIRTUELLE DU SÉNÉGAL (ENO DE DIOURBEL)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2289,14.636583]}}
+
+
+    
+ ]}

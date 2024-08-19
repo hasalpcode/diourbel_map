@@ -1,0 +1,123 @@
+{"type":"FeatureCollection","features":[
+
+    {"type":"Feature","properties":{"id":"1","name":"Boulangerie/Atelier/Boutique/MULTISERVICES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204353,14.6639000000001]}},
+
+    {"type":"Feature","properties":{"id":"2","name":"BOULANGERIE PÂTISSERIE MAME CHEIKH ANTA MBACKÉ","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204671,14.665642]}},
+
+    {"type":"Feature","properties":{"id":"3","name":"BOULANGERIE SERIGNE ABDOU AZIZ SY AL AMINE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.219281,14.6627100000001]}},
+
+    {"type":"Feature","properties":{"id":"4","name":"BOULANGERIE MADER GUEYE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.219645,14.661915]}},
+
+
+    {"type":"Feature","properties":{"id":"6","name":"BOULANGERIE S MOUHAMETH DEME","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.222683,14.636553]}},
+
+
+    {"type":"Feature","properties":{"id":"8","name":"BOULANGERIE PÂTISSERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2245629999999,14.6429200000001]}},
+
+    {"type":"Feature","properties":{"id":"9","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227115,14.666324]}},
+
+    {"type":"Feature","properties":{"id":"10","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.228376,14.670693]}},
+
+    {"type":"Feature","properties":{"id":"11","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2295139999999,14.679627]}},
+
+    {"type":"Feature","properties":{"id":"12","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2299459999999,14.63966]}},
+
+    {"type":"Feature","properties":{"id":"13","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2301219999999,14.6478050000001]}},
+
+    {"type":"Feature","properties":{"id":"14","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.230627,14.6705910000001]}},
+
+    {"type":"Feature","properties":{"id":"15","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.233534,14.648291]}},
+
+    {"type":"Feature","properties":{"id":"16","name":"Boulangerie/Atelier","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232044,14.657966]}},
+
+    {"type":"Feature","properties":{"id":"17","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.235509,14.6724630000001]}},
+
+    {"type":"Feature","properties":{"id":"18","name":"BOULANGERIE KHADIM SYLLA","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2396479999999,14.6656410000001]}},
+
+    {"type":"Feature","properties":{"id":"19","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239651,14.6412940000001]}},
+
+    {"type":"Feature","properties":{"id":"20","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2369669999999,14.640703]}},
+
+    {"type":"Feature","properties":{"id":"21","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.237109,14.63581]}},
+
+    {"type":"Feature","properties":{"id":"22","name":"EX BOULANGERIE DIARAF","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239212,14.6309910000001]}},
+
+    {"type":"Feature","properties":{"id":"23","name":"EX BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239231,14.6522130000001]}},
+
+    {"type":"Feature","properties":{"id":"24","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2394429999999,14.652819]}},
+
+    {"type":"Feature","properties":{"id":"25","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239452,14.6582100000001]}},
+
+    {"type":"Feature","properties":{"id":"26","name":"BOULANGERIE BOROM GAWANE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2396199999999,14.665104]}},
+
+    {"type":"Feature","properties":{"id":"27","name":"BOULANGERIE TOUBA DAROU MINAN","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2409779999999,14.651416]}},
+
+    {"type":"Feature","properties":{"id":"28","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2410899999999,14.6340070000001]}},
+
+    {"type":"Feature","properties":{"id":"29","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.246482,14.6606180000001]}},
+
+    {"type":"Feature","properties":{"id":"30","name":"BOULANGERIE S ATEKH FALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2504079999999,14.6503710000001]}},
+
+    {"type":"Feature","properties":{"id":"31","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.259197,14.6660450000001]}},
+
+    {"type":"Feature","properties":{"id":"32","name":"BOULANGERIE SERIGNE FALLOU MBACKE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.272171,14.669251]}},
+
+    {"type":"Feature","properties":{"id":"33","name":"BOULANGERIE S MOUHAMETH DEME","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2528589999999,14.650739]}},
+
+    {"type":"Feature","properties":{"id":"34","name":"BOULANGERIE S ATEKH FALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2441063439999,14.652386091]}},
+
+    {"type":"Feature","properties":{"id":"35","name":"BOULANGERIE TOUBA DAROU MINAN","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.241591,14.663279]}},
+
+    {"type":"Feature","properties":{"id":"36","name":"Boulangerie/Atelier","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.240670929,14.6611986720001]}},
+
+    {"type":"Feature","properties":{"id":"37","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2391679999999,14.658399]}},
+
+    {"type":"Feature","properties":{"id":"38","name":"EX BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.236304,14.6555220000001]}},
+
+    {"type":"Feature","properties":{"id":"39","name":"EX BOULANGERIE DIARAF","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.236076,14.656871]}},
+
+    {"type":"Feature","properties":{"id":"40","name":"BOULANGERIE SERIGNE ABDOU AZIZ SY AL AMINE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.235827,14.6460290000001]}},
+
+    {"type":"Feature","properties":{"id":"41","name":"BOULANGERIE MADER GUEYE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.235465,14.6532940000001]}},
+
+    {"type":"Feature","properties":{"id":"42","name":"BOULANGERIE PÂTISSERIE SERIGNE SALIOU MBACKE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.235313,14.6550510000001]}},
+
+    {"type":"Feature","properties":{"id":"43","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2350069999999,14.6576690000001]}},
+
+    {"type":"Feature","properties":{"id":"44","name":"BOULANGERIE PÂTISSERIE MAME CHEIKH ANTA MBACKÉ","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.231121,14.656684]}},
+
+    {"type":"Feature","properties":{"id":"45","name":"BOULANGERIE KHADIM SYLLA","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2309739999999,14.6573520000001]}},
+
+    {"type":"Feature","properties":{"id":"46","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.230742,14.659212]}},
+
+    {"type":"Feature","properties":{"id":"47","name":"Boulangerie/Atelier/Boutique/MULTISERVICES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.230574325,14.655952857]}},
+
+    {"type":"Feature","properties":{"id":"48","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2291509999999,14.673033]}},
+
+    {"type":"Feature","properties":{"id":"49","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2276419999999,14.6672520000001]}},
+
+    {"type":"Feature","properties":{"id":"50","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227163,14.650401]}},
+
+    {"type":"Feature","properties":{"id":"51","name":"BOULANGERIE PÂTISSERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2239999999999,14.6470380000001]}},
+
+    {"type":"Feature","properties":{"id":"52","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2221709999999,14.653439]}},
+
+    {"type":"Feature","properties":{"id":"53","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2218109999999,14.647051]}},
+
+    {"type":"Feature","properties":{"id":"54","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.220498145,14.6605308430001]}},
+
+    {"type":"Feature","properties":{"id":"55","name":"BOULANGERIE SERIGNE FALLOU MBACKE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2195379999999,14.654259]}},
+
+    {"type":"Feature","properties":{"id":"56","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.219342855,14.6581416270001]}},
+
+    {"type":"Feature","properties":{"id":"50","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.216619,14.655047]}},
+
+    {"type":"Feature","properties":{"id":"50","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2134788459999,14.661757225]}},
+
+    {"type":"Feature","properties":{"id":"50","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.212347855,14.6566917230001]}},
+
+    {"type":"Feature","properties":{"id":"50","name":"BOULANGERIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2061209999999,14.6684080000001]}}
+
+   
+
+]}

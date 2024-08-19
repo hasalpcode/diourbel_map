@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"id":"1","name":"Quartier MEDINATOUL (KEUR GOUMACK)","country":"Sénégal"},"geometry":{"type":"Point","coordinates": [-16.2133367,14.652615]}}
+
+ ]}

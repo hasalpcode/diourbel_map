@@ -1,0 +1,36 @@
+{"type":"FeatureCollection","features":[
+
+    {"type":"Feature","properties":{"id":"1","name":"ECOLE DE FORMATION EN COUTURE SERIGNE SALIOU MBACKÉ","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.203139361,14.654115371]}},
+    {"type":"Feature","properties":{"id":"2","name":"INSTITUT DE TECHNOLOGIE ET DE MANAGEMENT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.20329121,14.653542009]}},
+    {"type":"Feature","properties":{"id":"3","name":"ÉCOLE D'APPLICATION MAME DIARRA BOUSSO","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2040929999999,14.663872]}},
+    {"type":"Feature","properties":{"id":"4","name":"INSTITUTION BOROM TAIF MBACKÈ BALLA DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204934,14.6628900000001]}},
+    {"type":"Feature","properties":{"id":"5","name":"AUTO-ÉCOLE NDIOR","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2054126209999,14.6530070310001]}},
+    {"type":"Feature","properties":{"id":"6","name":"Centre de formation horticole","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.206514316,14.6541224430001]}},
+    {"type":"Feature","properties":{"id":"7","name":"CENTRE DE FORMATION DE LA MAISON D'ARRET ET DE CORRECTION","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2067489999999,14.6702790000001]}},
+    {"type":"Feature","properties":{"id":"8","name":"CENTRE DE FORMATION DES PERSONNELS DE  L'ÉDUCATION","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2108885599999,14.662597277]}},
+    {"type":"Feature","properties":{"id":"9","name":"CENTRE ACADÉMIQUE DE L'ORIENTATION SCOLAIRE ET PROFESSIONNELLE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2160969999999,14.6470890000001]}},
+    {"type":"Feature","properties":{"id":"10","name":"SELLY YA INSTITUT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.217588,14.6538790000001]}},
+    {"type":"Feature","properties":{"id":"11","name":"INSTITUT DE SANTÉ YASALAM","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.219436,14.659884]}},
+    {"type":"Feature","properties":{"id":"12","name":"ÉCOLE DE SANTÉ (IPFOSS)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2212999999999,14.644906]}},
+    {"type":"Feature","properties":{"id":"13","name":"OFFICE NATIONAL DE LA FORMATION PROFESSIONNELLE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2277839999999,14.667332]}},
+    {"type":"Feature","properties":{"id":"14","name":"INSTITUT MAOULHAYAT DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2343789999999,14.642031]}},
+    {"type":"Feature","properties":{"id":"15","name":"INSTITUT ISLAMIQUE SERIGNE ABDOU RAHIM DEME","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2350939999999,14.6495190000001]}},
+    {"type":"Feature","properties":{"id":"16","name":"INSTITUT SUPÉRIEUR AFRICAIN DE FORMATION","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239661,14.666458]}},
+    {"type":"Feature","properties":{"id":"17","name":"AUTO ECOLE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239662,14.645048]}},
+    {"type":"Feature","properties":{"id":"18","name":"CENTRE DE FORMATION PROFESSIONNELLE ( CFP )","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2391949999999,14.643788]}},
+    {"type":"Feature","properties":{"id":"19","name":"AUTO ÉCOLE LA LOCOMOTIVE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239584,14.6676390000001]}},
+    {"type":"Feature","properties":{"id":"20","name":"CENTRE DÉPARTEMENTAL D'ÉDUCATION POPULAIRE ET SPORTIVE (CDEPS)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2403249999999,14.660396]}},
+    {"type":"Feature","properties":{"id":"21","name":"INSTITUT SUPÉRIEUR D'INFORMATIQUE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.250435,14.6508220000001]}},
+    {"type":"Feature","properties":{"id":"22","name":"INSTITUT D'ÉTUDES ISLAMIQUES SERIGNE CHEIKH MBACKE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.253723,14.648106]}},
+    {"type":"Feature","properties":{"id":"23","name":"CENTRE DE MAGASIN DE CONDITIONNEMENT DES SEMENCES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2554479999999,14.6503730000001]}},
+    {"type":"Feature","properties":{"id":"24","name":"GROUPE MOUBARACK ECO&GESTION","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2341059999999,14.652772]}},
+    {"type":"Feature","properties":{"id":"25","name":"AUTO-ÉCOLE NDIOR","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.233877403,14.6538021380001]}},
+    {"type":"Feature","properties":{"id":"26","name":"INSTITUT DE TECHNOLOGIE ET DE MANAGEMENT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2312519999999,14.6572860000001]}},
+    {"type":"Feature","properties":{"id":"27","name":"PFEE (SERVICE FORMATION PROFESSIONNELLE DU MINISTÈRE FORMATION PROFESSIONNELLE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.229573,14.6592450000001]}},
+    {"type":"Feature","properties":{"id":"28","name":"CENTRE POLYVALENT DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227027,14.639956]}},
+    {"type":"Feature","properties":{"id":"29","name":"CENTRE DE MAGASIN DE CONDITIONNEMENT DES SEMENCES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2554479999999,14.6503730000001]}},
+    {"type":"Feature","properties":{"id":"30","name":"CENTRE D'ÉCOUTE ET DE PROTECTION DES ENFANTS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.236799,14.6402140000001]}}
+
+
+]}
+    

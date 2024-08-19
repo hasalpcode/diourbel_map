@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"id":"1","name":"Quartier Thierno kandji","country":"Sénégal"},"geometry":{"type":"Point","coordinates": [-16.2389509,14.6407141]}}
+
+ ]}

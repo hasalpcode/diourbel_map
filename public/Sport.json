@@ -1,0 +1,106 @@
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"id":"1","name":"DOJO YOSEIKAN KARATE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.20345,14.6541550000001]}},
+
+    {"type":"Feature","properties":{"id":"2","name":"STADE ELY MANEL FALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2082839999999,14.6561570000001]}},
+
+    {"type":"Feature","properties":{"id":"3","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.211,14.661684]}},
+
+    {"type":"Feature","properties":{"id":"4","name":"SAINT PIERRE ET PAUL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2125839999999,14.637165]}},
+
+    {"type":"Feature","properties":{"id":"5","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2128539999999,14.667182]}},
+
+    {"type":"Feature","properties":{"id":"6","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2162060059999,14.6516807040001]}},
+
+    {"type":"Feature","properties":{"id":"7","name":"RAS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.219015,14.6471010000001]}},
+
+    {"type":"Feature","properties":{"id":"8","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2193849999999,14.6532480000001]}},
+
+    {"type":"Feature","properties":{"id":"9","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2201909999999,14.6520340000001]}},
+
+    {"type":"Feature","properties":{"id":"10","name":"Terrain de basket","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2202139999999,14.6522580000001]}},
+
+    {"type":"Feature","properties":{"id":"11","name":"ESPACE DE TAEKWONDO","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.223692,14.655968]}},
+
+    {"type":"Feature","properties":{"id":"12","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.225111,14.641556]}},
+
+    {"type":"Feature","properties":{"id":"13","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.225804,14.664657]}},
+
+    {"type":"Feature","properties":{"id":"14","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.226394,14.664368]}},
+
+    {"type":"Feature","properties":{"id":"15","name":"SALLE DE FITNESS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.226574,14.6437280000001]}},
+
+    {"type":"Feature","properties":{"id":"16","name":"DES ARBRES CLÔTURE POUR DES PRIÈRES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2266049999999,14.6626620000001]}},
+
+    {"type":"Feature","properties":{"id":"17","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2269669999999,14.6423160000001]}},
+
+    {"type":"Feature","properties":{"id":"18","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2274689999999,14.644368]}},
+
+    {"type":"Feature","properties":{"id":"19","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227952,14.6664710000001]}},
+
+    {"type":"Feature","properties":{"id":"20","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.230262,14.6429430000001]}},
+
+    {"type":"Feature","properties":{"id":"21","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2312959999999,14.665808]}},
+
+    {"type":"Feature","properties":{"id":"22","name":"TERRAIN FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2326439999999,14.6725230000001]}},
+
+    {"type":"Feature","properties":{"id":"23","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2343729999999,14.6369310000001]}},
+
+    {"type":"Feature","properties":{"id":"24","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.236058,14.65112]}},
+
+    {"type":"Feature","properties":{"id":"25","name":"ARENE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239053,14.6409]}},
+
+    {"type":"Feature","properties":{"id":"26","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239054,14.62643]}},
+
+    {"type":"Feature","properties":{"id":"27","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239517,14.6520420000001]}},
+
+    {"type":"Feature","properties":{"id":"28","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2448374529999,14.6539836470001]}},
+
+    {"type":"Feature","properties":{"id":"29","name":"TERRAIN NATANGUE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.255665,14.6451460000001]}},
+
+    {"type":"Feature","properties":{"id":"30","name":"RAS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2465,14.645344]}},
+
+    {"type":"Feature","properties":{"id":"31","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.244128594,14.663566098]}},
+
+    {"type":"Feature","properties":{"id":"32","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2421419999999,14.6600750000001]}},
+
+    {"type":"Feature","properties":{"id":"33","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.241011,14.66664]}},
+
+    {"type":"Feature","properties":{"id":"34","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.240137121,14.654725268]}},
+
+    {"type":"Feature","properties":{"id":"35","name":"ARENE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239899,14.654093]}},
+
+    {"type":"Feature","properties":{"id":"36","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2385669999999,14.639998]}},
+
+    {"type":"Feature","properties":{"id":"37","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2380239999999,14.6489500000001]}},
+
+    {"type":"Feature","properties":{"id":"38","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2360889999999,14.648914]}},
+
+    {"type":"Feature","properties":{"id":"39","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2339239999999,14.661949]}},
+
+    {"type":"Feature","properties":{"id":"40","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2338169999999,14.6584990000001]}},
+
+    {"type":"Feature","properties":{"id":"41","name":"SALLE DE MUSCULATION","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2334279999999,14.658283]}},
+
+    {"type":"Feature","properties":{"id":"42","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.231643,14.6770920000001]}},
+
+    {"type":"Feature","properties":{"id":"43","name":"STADE ELY MANEL FALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.229678,14.645786]}},
+
+    {"type":"Feature","properties":{"id":"44","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.229294,14.637283]}},
+
+    {"type":"Feature","properties":{"id":"45","name":"Terrain de football","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2262249999999,14.6631420000001]}},
+
+    {"type":"Feature","properties":{"id":"46","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.22597,14.651941]}},
+
+    {"type":"Feature","properties":{"id":"47","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.224439,14.6386870000001]}},
+
+    {"type":"Feature","properties":{"id":"48","name":"TERRAIN NATANGUE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.216648,14.666006]}},
+
+    {"type":"Feature","properties":{"id":"49","name":"ESPACE DE TAEKWONDO","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2159849999999,14.6565580000001]}},
+
+    {"type":"Feature","properties":{"id":"50","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.211601,14.668668]}},
+
+    {"type":"Feature","properties":{"id":"51","name":"TERRAIN FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2099219999999,14.6643350000001]}},
+
+    {"type":"Feature","properties":{"id":"52","name":"TERRAIN DE FOOTBALL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.208679,14.6648700000001]}}
+       
+ ]}

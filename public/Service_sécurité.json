@@ -1,0 +1,29 @@
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"id":"1","name":"CAMP GMI","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.201988,14.653332]}},
+
+    {"type":"Feature","properties":{"id":"2","name":"MAISON D'ARRÊT ET DE CORRECTION DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204013,14.662926]}},
+
+    {"type":"Feature","properties":{"id":"3","name":"SALLE D'ATTENTE DE LA MAISON D'ARRÊT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204022,14.663394]}},
+
+    {"type":"Feature","properties":{"id":"4","name":"CAMP DES GARDES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2118649999999,14.654952]}},
+
+    {"type":"Feature","properties":{"id":"5","name":"DOUANE NATIONALE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2282319999999,14.673096]}},
+
+    {"type":"Feature","properties":{"id":"6","name":"CASERNE SAPEURS POMPIERS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239408,14.6347870000001]}},
+
+    {"type":"Feature","properties":{"id":"7","name":"Police","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239542,14.673012]}},
+
+    {"type":"Feature","properties":{"id":"8","name":"Gendarmerie","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2396259999999,14.654951]}},
+
+    {"type":"Feature","properties":{"id":"9","name":"BRIGADE GENDARMERIE NATIONALE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.240281,14.6376950000001]}},
+
+    {"type":"Feature","properties":{"id":"10","name":"POLICE ( OCRITIS)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.240315,14.635]}},
+
+    {"type":"Feature","properties":{"id":"11","name":"POSTÉ DOUANE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.242566,14.662587]}},
+
+    {"type":"Feature","properties":{"id":"12","name":"SALLE D'ATTENTE DE LA MAISON D'ARRÊT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204022,14.663394]}},
+
+    {"type":"Feature","properties":{"id":"13","name":"SALLE D'ATTENTE DE LA MAISON D'ARRÊT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204022,14.663394]}}
+
+   
+ ]}

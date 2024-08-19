@@ -1,0 +1,228 @@
+{"type":"FeatureCollection","features":[
+
+    {"type":"Feature","properties":{"id":"1","name":"ANCAR","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2008089999999,14.652816]}},
+
+    {"type":"Feature","properties":{"id":"2","name":"Inspection Régional du travail","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.202687,14.6540630000001]}},
+
+    {"type":"Feature","properties":{"id":"3","name":"Gouvernance","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.203153771,14.6539433460001]}},
+
+    {"type":"Feature","properties":{"id":"4","name":"INSPECTION D'ACADEMIE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.203329902,14.6527684870001]}},
+
+
+    {"type":"Feature","properties":{"id":"5","name":"Préfecture","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.203388,14.6626650000001]}},
+
+    {"type":"Feature","properties":{"id":"6","name":"DIVISION RÉGIONALE DE L'URBANISME ET DE L'HABITAT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.20356,14.6524640000001]}},
+
+
+    {"type":"Feature","properties":{"id":"7","name":"SERVICE RÉGIONAL DE SPORTS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2035959999999,14.6512940000001]}},
+
+    {"type":"Feature","properties":{"id":"8","name":"SERVICE RÉGIONAL DE L'HYGIÈNE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204267,14.6627]}},
+ 
+    {"type":"Feature","properties":{"id":"9","name":"ÉTAT CIVIL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204379,14.6536980000001]}},
+
+    {"type":"Feature","properties":{"id":"10","name":"SERVICE DÉPARTEMENTAL DU DÉVELOPPEMENT COMMUNAUTAIRE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.204405,14.665873]}},
+
+    {"type":"Feature","properties":{"id":"11","name":"Mairie de DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2044725379999,14.6515559220001]}},
+
+    {"type":"Feature","properties":{"id":"12","name":"Mairie","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2048338659999,14.6534104150001]}},
+
+    {"type":"Feature","properties":{"id":"13","name":"CONSEIL DÉPARTEMENTAL DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2049949999999,14.646528]}},
+
+
+    {"type":"Feature","properties":{"id":"15","name":"SERVICE DÉPARTEMENTAL DU DÉVELOPPEMENT COMMUNAUTAIRE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2052577169999,14.650820126]}},
+
+    {"type":"Feature","properties":{"id":"16","name":"AGENCE NOTARIALE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.205634,14.663233]}},
+
+    {"type":"Feature","properties":{"id":"17","name":"CONTRÔLE RÉGIONAL DES FINANCES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.205818,14.668755]}},
+
+    {"type":"Feature","properties":{"id":"18","name":"INSPECTION MÉDICALE DES ECOLES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.205932,14.6490020000001]}},
+
+    {"type":"Feature","properties":{"id":"19","name":"INSPECTION RÉGIONALE DES Eaux et fôrets","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2062529999999,14.6503760000001]}},
+
+    {"type":"Feature","properties":{"id":"20","name":"Service régional de l'élevage DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2088639999999,14.651263]}},
+
+    {"type":"Feature","properties":{"id":"21","name":"Service départemental élevage","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2088669999999,14.652766]}},
+
+    {"type":"Feature","properties":{"id":"22","name":"SERVICE RÉGIONAL DE LA RÉGION DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2090449999999,14.66238]}},
+
+    {"type":"Feature","properties":{"id":"23","name":"SERVICE RÉGIONAL DU COMMERCE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.210799,14.6502820000001]}},
+
+    {"type":"Feature","properties":{"id":"24","name":"CEDA (COMMISSION ÉLECTORALE DÉPARTEMENTALE AUTONOME) DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.211417856,14.649756145]}},
+
+    {"type":"Feature","properties":{"id":"25","name":"AGAN CONSTRUCTION","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.212296,14.648807]}},
+
+    {"type":"Feature","properties":{"id":"26","name":"INSPECTION D'ACADÉMIE DE DIOURBEL , INSPECTION DE L'ÉDUCATION ET DE LA FORMATION DE DIOURBEL,BLOC SCIENTIFIQUE ET TECHNOLOGIQUE 02(BST 02)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.212885855,14.6587255850001]}},
+
+    {"type":"Feature","properties":{"id":"27","name":"SERVICE REGIONAL DES MINES ET DE LA GÉOLOGIE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2160092829999,14.6498787040001]}},
+
+    {"type":"Feature","properties":{"id":"28","name":"SERVICE RÉGIONAL D'APPUI AU DÉVELOPPEMENT LOCAL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2160949999999,14.6572170000001]}},
+
+    {"type":"Feature","properties":{"id":"29","name":"DIVISION REGIONALE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.216133,14.663895]}},
+
+    {"type":"Feature","properties":{"id":"30","name":"DIRECTION DE L'EMPLOI","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2182519999999,14.661904]}},
+
+    {"type":"Feature","properties":{"id":"31","name":"BUREAU CADASTRAL DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2189079999999,14.6436340000001]}},
+
+    {"type":"Feature","properties":{"id":"32","name":"DISTRICT SANITAIRE SIDY GUISSE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2195889999999,14.659656]}},
+
+    {"type":"Feature","properties":{"id":"33","name":"AGENCE MOUHAMMED 28","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2196509999999,14.6363630000001]}},
+
+    {"type":"Feature","properties":{"id":"34","name":"TRIBUNAL D'INSTANCE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2198119999999,14.654326]}},
+
+    {"type":"Feature","properties":{"id":"35","name":"DIRECTION REGIONALE DE L'EAU ET DE L'ASSAINISSEMENT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.220926,14.6544890000001]}},
+
+    {"type":"Feature","properties":{"id":"36","name":"AGENCE NATIONALE DE LA STATISTIQUE ET DE LA DEMOGRAPHIE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2215259999999,14.64728]}},
+
+    {"type":"Feature","properties":{"id":"37","name":"SERVICE DÉPARTEMENTAL DÉVELOPPEMENT RURAL DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[16.222697,14.648827]}},
+
+    {"type":"Feature","properties":{"id":"38","name":"SERVICE RÉGIONAL DE L'ASSAINISSEMENT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.225905,14.6367260000001]}},
+
+    {"type":"Feature","properties":{"id":"39","name":"SERVICE RÉGIONAL DE L'AGENCE DE LA COUVERTURE MALADIE UNIVERSELLE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2265669999999,14.6450130000001]}},
+
+    {"type":"Feature","properties":{"id":"40","name":"AGENCE NATIONALE POUR LA PROMOTION DE L'EMPLOI DES JEUNES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2276249999999,14.6454200000001]}},
+
+    {"type":"Feature","properties":{"id":"41","name":"DIRECTION RÉGIONALE DU DÉVELOPPEMENT COMMUNAUTAIRE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227706,14.668915]}},
+
+    {"type":"Feature","properties":{"id":"42","name":"SERVICE RÉGIONAL DES RENSEIGNEMENTS GÉNÉRAUX DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.22784,14.667921]}},
+
+    {"type":"Feature","properties":{"id":"43","name":"OFFICE NADE L'ASSAINISSEMENT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227842,14.643444]}},
+
+    {"type":"Feature","properties":{"id":"44","name":"TRIBUNAL DE GRANDE INSTANCE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239369,14.6699850000001]}},
+
+    {"type":"Feature","properties":{"id":"45","name":"TRÉSOR","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.239633,14.638744]}},
+
+    {"type":"Feature","properties":{"id":"46","name":"SERVICE HYDRAULIQUE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.240326,14.637011]}},
+
+    {"type":"Feature","properties":{"id":"47","name":"INSPECTION D'ACADÉMIE DE L'ÉDUCATION ET DE LA FORMATION","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.240349,14.6351020000001]}},
+
+    {"type":"Feature","properties":{"id":"48","name":"DIVISION DES TRANSPORTS TERRESTRES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.240353,14.6394520000001]}},
+
+    {"type":"Feature","properties":{"id":"49","name":"DIRECTION RÉGIONALE DU DÉVELOPPEMENT RURAL  (DRDR)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2403659999999,14.6351510000001]}},
+
+    {"type":"Feature","properties":{"id":"50","name":"AGENCE RÉGIONALE DE DÉVELOPPEMENT(ARD) DE DIOURBEL (ARD)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2403659999999,14.6646410000001]}},
+
+    {"type":"Feature","properties":{"id":"51","name":"DIVISION DES TRAVAUX","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2438549999999,14.6440850000001]}},
+
+    {"type":"Feature","properties":{"id":"52","name":"DISTRICT SANITAIRE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.244583,14.664768]}},
+
+    {"type":"Feature","properties":{"id":"53","name":"LONASE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.251789,14.6487460000001]}},
+
+    {"type":"Feature","properties":{"id":"54","name":"AGENCE NATIONALE DE LA STATISTIQUE ET DE LA DEMOGRAPHIE (ANSD)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2566034279999,14.65078212]}},
+
+    {"type":"Feature","properties":{"id":"55","name":"TRIBUNAL D'INSTANCE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.236843,14.653131]}},
+
+    {"type":"Feature","properties":{"id":"56","name":"Région médicale","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2361349999999,14.654823]}},
+
+    {"type":"Feature","properties":{"id":"57","name":"CHAMBRE DE COMMERCE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2351928739999,14.655640912]}},
+
+    {"type":"Feature","properties":{"id":"58","name":"RECETTE PERCEPTION MUNICIPALE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.234367,14.652314]}},
+
+    {"type":"Feature","properties":{"id":"59","name":"DIVISION RÉGIONALE DE L'URBANISME ET DE L'HABITAT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.23432,14.6538790000001]}},
+
+    {"type":"Feature","properties":{"id":"60","name":"SERVICE RÉGIONAL DE SPORTS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2342909999999,14.653335]}},
+
+    {"type":"Feature","properties":{"id":"61","name":"INSPECTION D'ACADEMIE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.234214,14.653126]}},
+
+    {"type":"Feature","properties":{"id":"62","name":"SERVICE RÉGIONAL DE L'HYGIÈNE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2340419999999,14.6533240000001]}},
+
+    {"type":"Feature","properties":{"id":"63","name":"DIRECTION REGIONALE DE L'EAU ET DE L'ASSAINISSEMENT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.23396,14.651437]}},
+
+    {"type":"Feature","properties":{"id":"64","name":"TRÉSOR","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.233463,14.657696]}},
+
+    {"type":"Feature","properties":{"id":"65","name":"Mairie de DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.233331,14.655633]}},
+
+    {"type":"Feature","properties":{"id":"66","name":"SERVICE RÉGIONAL DE L'ASSAINISSEMENT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2330689999999,14.6632930000001]}},
+
+    {"type":"Feature","properties":{"id":"67","name":"ÉTAT CIVIL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232941,14.6552100000001]}},
+
+    {"type":"Feature","properties":{"id":"68","name":"Mairie","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232722,14.6557090000001]}},
+
+    {"type":"Feature","properties":{"id":"69","name":"Chambre des métiers","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2326919999999,14.6494240000001]}},
+
+    {"type":"Feature","properties":{"id":"70","name":"CONSEIL DÉPARTEMENTAL DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232586,14.655331]}},
+
+    {"type":"Feature","properties":{"id":"71","name":"CONSEIL DÉPARTEMENTAL DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232586,14.655331]}},
+
+    {"type":"Feature","properties":{"id":"72","name":"SERVICE RÉGIONAL D'APPUI AU DÉVELOPPEMENT LOCAL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232522,14.645716]}},
+
+    {"type":"Feature","properties":{"id":"73","name":"STATION MÉTÉO","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232455,14.6614670000001]}},
+
+    {"type":"Feature","properties":{"id":"74","name":"BUREAU CADASTRAL DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232409,14.6562060000001]}},
+
+    {"type":"Feature","properties":{"id":"75","name":"Gouvernance","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232315,14.654254]}},
+
+    {"type":"Feature","properties":{"id":"76","name":"SERVICE DÉPARTEMENTAL DU DÉVELOPPEMENT COMMUNAUTAIRE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232271,14.655987]}},
+
+    {"type":"Feature","properties":{"id":"77","name":"DIVISION REGIONAL DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2321449999999,14.646392]}},
+
+    {"type":"Feature","properties":{"id":"78","name":"CENTRE ACADÉMIQUE DE L'ORIENTATION SCOLAIRE ET PROFESSIONNELLE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.232118698,14.64552388]}},
+
+    {"type":"Feature","properties":{"id":"79","name":"IMPOTS ET DOMAINES DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.23202,14.655673]}},
+
+    {"type":"Feature","properties":{"id":"80","name":"ANCAR (AGENCE NATIONALE DE CONSEIL AGRICOLE ET RURAL)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2319429999999,14.6473570000001]}},
+
+    {"type":"Feature","properties":{"id":"81","name":"IPRES ( INSTITUTION DE PRÉVOYANCE RETRAITE DU SÉNÉGAL)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.231502,14.6475100000001]}},
+
+    {"type":"Feature","properties":{"id":"82","name":"Inspection Régionale du travail","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.231457,14.6510040000001]}},
+
+    {"type":"Feature","properties":{"id":"83","name":"SEN EAUX","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.230992,14.6476950000001]}},
+
+    {"type":"Feature","properties":{"id":"84","name":"CONTRÔLE RÉGIONAL DES FINANCES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2304379999999,14.6518160000001]}},
+
+    {"type":"Feature","properties":{"id":"85","name":"CENTRE DOCUMENTATION","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.230376,14.6554840000001]}},
+
+    {"type":"Feature","properties":{"id":"86","name":"Services techniques communaux","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2303669999999,14.6551870000001]}},
+
+    {"type":"Feature","properties":{"id":"87","name":"SERVICE RÉGIONAL DE L'AGENCE DE LA COUVERTURE MALADIE UNIVERSELLE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.230335711,14.658148843]}},
+
+    {"type":"Feature","properties":{"id":"88","name":"OFFICE NATIONAL DE L'ASSAINISSEMENT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.229729,14.6575540000001]}},
+
+    {"type":"Feature","properties":{"id":"89","name":"DIRECTION RÉGIONALE DU DÉVELOPPEMENT RURAL (DRDR)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.229549,14.6570600000001]}},
+
+    {"type":"Feature","properties":{"id":"90","name":"CABINET AUXILIAIRE DE JUSTICE (COMMISSAIRE PRISEUR) MAÎTRE SERIGNE LOUM","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2295,14.658288]}},
+
+    {"type":"Feature","properties":{"id":"91","name":"INSPECTION D'ACADÉMIE DE DIOURBEL , INSPECTION DE L'ÉDUCATION ET DE LA FORMATION DE DIOURBEL,BLOC SCIENTIFIQUE ET TECHNOLOGIQUE 02 (BST 02)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2293089999999,14.6366150000001]}},
+
+    {"type":"Feature","properties":{"id":"92","name":"INSPECTION RÉGIONALE DES EAUX ET FORETS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2293069999999,14.651796]}},
+
+    {"type":"Feature","properties":{"id":"93","name":"AGENCE RÉGIONALE DE DÉVELOPPEMENT DE DIOURBEL (ARD)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2292479999999,14.6571750000001]}},
+
+    {"type":"Feature","properties":{"id":"94","name":"DIRECTION RÉGIONALE DU DÉVELOPPEMENT COMMUNAUTAIRE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2292469999999,14.658398]}},
+
+    {"type":"Feature","properties":{"id":"95","name":"CENTRE DÉPARTEMENTAL D'ÉDUCATION POPULAIRE ET SPORTIVE (CDEPS)","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2290399999999,14.653222]}},
+
+    {"type":"Feature","properties":{"id":"96","name":"BAOL DIGITAL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.228542692,14.668235994]}},
+
+    {"type":"Feature","properties":{"id":"97","name":"AGENCE NATIONALE POUR LA PROMOTION DE L'EMPLOI DES JEUNES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2281169999999,14.6594450000001]}},
+
+    {"type":"Feature","properties":{"id":"98","name":"SERVICE HYDRAULIQUE","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227962933,14.6517227950001]}},
+
+    {"type":"Feature","properties":{"id":"99","name":"3FPT","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2273339999999,14.6498570000001]}},
+
+    {"type":"Feature","properties":{"id":"100","name":"Service départemental élevage","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.227136,14.648351]}},
+
+    {"type":"Feature","properties":{"id":"101","name":"DIVISION DES TRAVAUX","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2270109999999,14.659885]}},
+
+    {"type":"Feature","properties":{"id":"102","name":"Service régional de l'élevage DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2264479999999,14.648697]}},
+
+    {"type":"Feature","properties":{"id":"103","name":"AEMO","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2262259999999,14.657205]}},
+
+    {"type":"Feature","properties":{"id":"104","name":"SERVICE RÉGIONAL DE LA RÉGION DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2246939999999,14.6467690000001]}},
+
+    {"type":"Feature","properties":{"id":"105","name":"CEDA (COMMISSION ÉLECTORALE DÉPARTEMENTALE AUTONOME) DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2244689999999,14.6408880000001]}},
+
+    {"type":"Feature","properties":{"id":"106","name":"SERVICE RÉGIONAL DU COMMERCE DE DIOURBEL","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2219969999999,14.6445840000001]}},
+
+    {"type":"Feature","properties":{"id":"107","name":"BUREAU SENELEC","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.219857302,14.6616942580001]}},
+
+    {"type":"Feature","properties":{"id":"108","name":"POSTÉ DOUANES","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.214096436,14.638835537]}},
+
+    {"type":"Feature","properties":{"id":"109","name":"ONAS","country":"Sénégal"},"geometry":{"type":"Point","coordinates":[-16.2131919999999,14.6710640000001]}}
+
+
+
+
+
+
+
+]}
